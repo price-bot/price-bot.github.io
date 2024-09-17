@@ -1,1 +1,1 @@
-# price-bot.github.io
+# frontier-price.github.io
